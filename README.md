@@ -1,5 +1,7 @@
 ## Hi there 👋
 VecRecall 是一个改进版的 AI 长期记忆系统。它基于对原版 MemPalace 的深度分析重新构建，核心设计理念是将“信息检索”与“信息组织”彻底解耦。 通过纯向量检索路径和独立的 SQLite UI 层，VecRecall 在保持灵活组织的同时，将召回率（R@5）从原版的 84% 提升至 96.6%+，为 AI Agent 提供更精准、更高效的上下文记忆支持。
+
+VecRecall is an enhanced AI long-term memory system. Rebuilt following an in-depth analysis of the original MemPalace, its core design philosophy centers on the complete decoupling of "information retrieval" from "information organization." By employing a pure vector-based retrieval path alongside a distinct SQLite UI layer, VecRecall not only preserves organizational flexibility but also boosts recall accuracy (R@5) from the original version's 84% ​​to over 96.6%, thereby providing AI Agents with more precise and efficient contextual memory support.
 <!--
 **snowfoxHQ/snowfoxHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
