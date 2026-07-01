@@ -1,18 +1,41 @@
-## Hi there 👋
-VecRecall 是一个改进版的 AI 长期记忆系统。它基于对原版 MemPalace 的深度分析重新构建，核心设计理念是将“信息检索”与“信息组织”彻底解耦。 通过纯向量检索路径和独立的 SQLite UI 层，VecRecall 在保持灵活组织的同时，将召回率（R@5）从原版的 84% 提升至 96.6%+，为 AI Agent 提供更精准、更高效的上下文记忆支持。
+Hestia AI Ecosystem
 
-VecRecall is an enhanced AI long-term memory system. Rebuilt following an in-depth analysis of the original MemPalace, its core design philosophy centers on the complete decoupling of "information retrieval" from "information organization." By employing a pure vector-based retrieval path alongside a distinct SQLite UI layer, VecRecall not only preserves organizational flexibility but also boosts recall accuracy (R@5) from the original version's 84% ​​to over 96.6%, thereby providing AI Agents with more precise and efficient contextual memory support.
-<!--
-**snowfoxHQ/snowfoxHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hestia is an open AI infrastructure project focused on building the cognitive foundation for next-generation AI systems.
 
-Here are some ideas to get you started:
+Instead of treating AI as a single language model, Hestia views intelligence as the collaboration of multiple core capabilities—including persistent memory, knowledge organization, autonomous agents, reasoning, and execution—working together as a unified cognitive operating system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The ecosystem currently includes:
+
+Hestia OS — A cognitive operating system for AI inference and execution.
+HMR (Hestia Memory Runtime) — Persistent long-term memory for AI agents.
+VecRecall — High-performance semantic memory retrieval engine.
+HKC (Hestia Knowledge Core) — Dynamic knowledge graph and knowledge evolution system.
+Enterprise Agent Runtime — Infrastructure for enterprise-grade autonomous AI agents.
+
+Our goal is to build reusable AI infrastructure that enables agents to remember, reason, learn, organize knowledge, and continuously evolve, rather than simply generating responses from a single prompt.
+
+This repository serves as the foundation for the Hestia ecosystem and its vision of next-generation cognitive AI.
+
+Hestia AI 生态
+
+Hestia 是一个面向下一代 AI 的开放式基础设施项目，致力于构建 AI 的认知基础设施（Cognitive Infrastructure）。
+
+我们认为，未来的 AI 不应只是一个语言模型，而应由长期记忆、知识组织、Agent、自主推理与执行等多个核心能力共同组成，形成一个真正具备持续认知能力的 AI 系统。
+
+目前生态包含：
+
+Hestia OS —— AI 认知操作系统
+HMR（Hestia Memory Runtime） —— AI 长期记忆运行时
+VecRecall —— 高性能语义记忆检索引擎
+HKC（Hestia Knowledge Core） —— 知识组织与知识演化系统
+Enterprise Agent Runtime —— 企业级 Agent 运行基础设施
+
+我们的目标不是开发单一 AI 应用，而是构建一套可复用的 AI 基础设施，使 AI 能够真正拥有：
+
+持续记忆（Remember）
+自主推理（Reason）
+知识组织（Organize）
+持续学习（Learn）
+持续进化（Evolve）
+
+共同构成下一代 AI 的认知底座。
