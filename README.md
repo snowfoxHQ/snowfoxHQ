@@ -1,4 +1,9 @@
-Hestia AI Ecosystem
+# Hestia AI Ecosystem
+
+[![Hestia OS](https://img.shields.io/badge/Hestia_OS-Cognitive_OS-2B77BF)](https://github.com/snowfoxHQ/HestiaOS)
+[![HMR](https://img.shields.io/badge/HMR-v2.0-blue)](https://github.com/snowfoxHQ/HMR)
+[![VecRecall](https://img.shields.io/badge/VecRecall-v2.0-09B83E)](https://github.com/snowfoxHQ/vecRecall)
+[![HKC](https://img.shields.io/badge/HKC-Knowledge_Core-brightgreen)](https://github.com/snowfoxHQ/hestia-hkc)
 
 Hestia is an open AI infrastructure project focused on building the cognitive foundation for next-generation AI systems.
 
