@@ -1,6 +1,3 @@
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/snowfoxHQ/achievements?format=svg&limit=3" width="350" />
-</p>
 # Hestia AI Ecosystem
 
 [![Hestia OS](https://img.shields.io/badge/Hestia_OS-Cognitive_OS-2B77BF)](https://github.com/snowfoxHQ/HestiaOS)
