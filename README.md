@@ -1,4 +1,3 @@
-![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 # Hestia AI Ecosystem
 
 [![Hestia OS](https://img.shields.io/badge/Hestia_OS-Cognitive_OS-2B77BF)](https://github.com/snowfoxHQ/HestiaOS)
